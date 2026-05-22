@@ -1,4 +1,4 @@
-# Hi, I'm Tosa 👋
+# Hi, I'm Tosa
 
 Software engineer building personal projects on the side.
 
